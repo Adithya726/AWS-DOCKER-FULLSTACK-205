@@ -1,4 +1,4 @@
-xservices:
+services:
   mysqldb:
     container_name: mysql-db
     image: mysql:8
